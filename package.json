@@ -1,0 +1,18 @@
+{
+  "name": "atom-chibichara",
+  "main": "./lib/atom-chibichara",
+  "version": "0.0.1",
+  "description": "Atom package to put chibichara on your editor's corner",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-chibichara:toggle"
+  },
+  "repository": "https://github.com/safu9/atom-chibichara",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

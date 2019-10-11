@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-chibichara",
+        "command": "atom-chibichara:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-chibichara",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-chibichara:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
