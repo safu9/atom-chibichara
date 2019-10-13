@@ -2,9 +2,12 @@
   "name": "atom-chibichara",
   "main": "./lib/atom-chibichara",
   "version": "0.0.1",
-  "description": "Atom package to put chibichara on your editor's corner",
+  "description": "Show chibichara on your editor's corner",
   "keywords": [
-    "background"
+    "background",
+    "character",
+    "chibichara",
+    "image"
   ],
   "repository": "https://github.com/safu9/atom-chibichara",
   "license": "MIT",

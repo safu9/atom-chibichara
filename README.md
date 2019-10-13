@@ -1,5 +1,6 @@
 # atom-chibichara
+[![APM](https://img.shields.io/apm/v/atom-chibichara)](https://atom.io/packages/atom-chibichara)
 
-Atom package to put chibichara on your editor's corner
+Atom package to show chibichara on your editor's corner.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Inspired by [cocuh/intellij-background-chibichara](https://github.com/cocuh/intellij-background-chibichara).
