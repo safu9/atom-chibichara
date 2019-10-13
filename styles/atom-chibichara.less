@@ -5,16 +5,23 @@
 @import "ui-variables";
 
 .atom-chibichara {
-	position             : absolute;
-	top                  : 0;
-	right                : 0;
-	bottom               : 0;
-	left                 : 0;
-	background-attachment: fixed;
-	background-position  : center center;
-	background-size      : cover;
-	opacity              : 0.15;
-	overflow             : hidden;
-	pointer-events       : none;
-	z-index              : 10000;
+  .atom-chibichara-view {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-position: 95% 95%;
+    background-size: 25%;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    overflow: hidden;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  atom-text-editor .scroll-view {
+    background: transparent !important;
+    z-index: 2;
+  }
 }
