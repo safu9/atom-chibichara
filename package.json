@@ -4,10 +4,8 @@
   "version": "0.0.1",
   "description": "Atom package to put chibichara on your editor's corner",
   "keywords": [
+    "background"
   ],
-  "activationCommands": {
-    "atom-workspace": "atom-chibichara:toggle"
-  },
   "repository": "https://github.com/safu9/atom-chibichara",
   "license": "MIT",
   "engines": {
