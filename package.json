@@ -1,7 +1,7 @@
 {
   "name": "atom-chibichara",
   "main": "./lib/atom-chibichara",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Show chibichara on your editor's corner",
   "keywords": [
     "background",
@@ -14,6 +14,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
